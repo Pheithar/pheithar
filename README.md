@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, my name is Alejandro Valverde
+
+I'm a Computer Engineering Student at *Universidad Carlos III de Madrid*.
+
+I'm in my fourth and hopefully last year of my degree.
+
+I enjoy learning about Machine Learning and Artificial Inteligence, but I also like web developing and making videogames.
 
 <!--
 **Pheithar/pheithar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
