@@ -1,6 +1,6 @@
 # Hello, my name is Alejandro Valverde
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Hello](./Images/hello.png)
 
 I'm a Computer Engineering Student at *Universidad Carlos III de Madrid*.
 
