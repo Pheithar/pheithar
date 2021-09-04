@@ -2,9 +2,9 @@
 
 ![Hello](./Images/hello.png)
 
-I'm a Computer Engineering Student at *Universidad Carlos III de Madrid*.
+I'm graduated in Computer Science and Engineering from the *Universidad Carlos III de Madrid*.
 
-I'm in my fourth and hopefully last year of my degree.
+Right now I'm studying the Human-Centered Artificial Intelligence at *DTU*. 
 
 I enjoy learning about Machine Learning and Artificial Intelligence, but I also like web developing and making videogames.
 
