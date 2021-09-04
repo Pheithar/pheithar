@@ -4,7 +4,7 @@
 
 I'm graduated in Computer Science and Engineering from the *Universidad Carlos III de Madrid*.
 
-Right now I'm studying the Human-Centered Artificial Intelligence at *DTU*. 
+Right now I'm studying the Human-Centered Artificial Intelligence MSc. at *DTU*. 
 
 I enjoy learning about Machine Learning and Artificial Intelligence, but I also like web developing and making videogames.
 
