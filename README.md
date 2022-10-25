@@ -33,9 +33,9 @@ you can reach me at:
 
 ![summaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pheithar&theme=vue)
 
-![stats](https://github-readme-stats.vercel.app/api?username=Pheithar)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pheithar)
 
+![stats](https://github-readme-stats.vercel.app/api?username=Pheithar)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=Pheithar)
 
 <!-- ![activityGraph](https://activity-graph.herokuapp.com/graph?username=Pheithar&theme=minimal) -->
