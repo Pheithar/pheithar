@@ -33,7 +33,12 @@ you can reach me at:
 
 ![summaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pheithar&theme=vue)
 
-![activityGraph](https://activity-graph.herokuapp.com/graph?username=Pheithar&theme=minimal)
+![stats](https://github-readme-stats.vercel.app/api?username=Pheithar)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pheithar)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Pheithar)
+
+<!-- ![activityGraph](https://activity-graph.herokuapp.com/graph?username=Pheithar&theme=minimal) -->
 <!--
 **Pheithar/pheithar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
