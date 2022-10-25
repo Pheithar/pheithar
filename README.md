@@ -2,9 +2,9 @@
 
 ![Hello](./Images/hello.png)
 
-[!mailBadge](https://img.shields.io/badge/mail-avalverdemahou%40gmail.com-blue)
+![mailBadge](https://img.shields.io/badge/mail-avalverdemahou%40gmail.com-blue)
 
-[!studentMailBadge](https://img.shields.io/badge/student_mail-s212728%40dtu.dk-blue)
+![studentMailBadge](https://img.shields.io/badge/student_mail-s212728%40dtu.dk-blue)
 
 
 I'm graduated in Computer Science and Engineering from the *Universidad Carlos III de Madrid*.
@@ -25,15 +25,15 @@ I'm trying to learn as much as possible about any topic that I am interested in:
 
 you can reach me at:
 
-[![!gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avalverdemahou@gmail.com) 
-[![!linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-valverde-mahou-a547811a3/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avalverdemahou@gmail.com) 
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-valverde-mahou-a547811a3/)
 
 
 ## My gitHub activity
 
-[!summaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pheithar&theme=vue)
+![summaryCard](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pheithar&theme=vue)
 
-[!activityGraph](https://activity-graph.herokuapp.com/graph?username=Pheithar&theme=minimal)
+![activityGraph](https://activity-graph.herokuapp.com/graph?username=Pheithar&theme=minimal)
 <!--
 **Pheithar/pheithar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
